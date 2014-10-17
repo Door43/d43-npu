@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[npu:home|Door43 (npu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-npu|d43-npu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-npu/archive/master.zip|d43-npu.zip]]
+
+**Recent Changes**
+{{changes>ns = npu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/npu|Ethnologue data]]
+
